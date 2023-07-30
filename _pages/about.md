@@ -1,20 +1,17 @@
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+excerpt: "Haikun Liu (刘海坤)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**Ph.D, Professor**
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Brief Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+刘海坤，博士，华中科技大学教授，博士生导师，国家“万人计划”青年拔尖人才入选者，湖北省杰出青年基金获得者。2012年于华中科技大学计算机系统结构专业博士毕业，2013.1-2015.1在新加坡南洋理工大学任研究员。目前主要从事内存计算、虚拟化/云计算等方向的研究。近年来主持国家重点研发计划课题2项、国家自然科学基金项目3项，以及上千万的华为横向技术合作项目。在ASPLOS/ISCA/HPCA/DAC/ICS/SC/HPDC等计算机顶级国际会议以及包括IEEE TC/TCAD/TPDS、ACM TACO/ToS、《中国科学》等CCF A/B类重要国际期刊上发表论文80多篇，论文累加被谷歌学术搜索引用2300多次，单篇最高600多次。获得专利授权18项，其中美国专利4项。博士论文被评为2012年度湖北省优秀博士论文，2016年获得ACM-Wuhan新星奖，2018年获教育部高等学校科学研究优秀成果奖自然科学一等奖，2020年获国家自然科学二等奖，上海市技术发明一等奖，2022年获得华为奥林帕斯先锋奖。多次担任知名国际会议如IEEE Big Data Congress、ICA3PP、ICPADS的程序委员会领域主席，以及国际顶级会议如SC/ICDCS/Cluster/CCGrid/ISMM等著名国际会议的PC 20多次。ACM/IEEE会员，CCF高级会员、CCF高性能计算专委会委员，CCF体系结构专委会委员。
 
 Getting started
 ======
