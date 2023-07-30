@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Ph.D, Professor**
-[School of Computer Science and Technology](http://cs.hust.edu.cn/).
-[Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+**Ph.D, Professor**  
+[School of Computer Science and Technology](http://cs.hust.edu.cn/).  
+[Huazhong University of Science and Technology](https://www.hust.edu.cn/).  
 E-mail: haikunliu@hust.edu.cn
 
 
