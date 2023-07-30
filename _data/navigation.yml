@@ -4,19 +4,13 @@ main:
     url: /publications/
 
   - title: "Project"
-    url: /talks/    
+    url: /project/    
 
   - title: "Awards"
-    url: /teaching/    
+    url: /awards/    
     
   - title: "Contact"
-    url: /portfolio/
+    url: /contect/
         
   - title: "Chinese"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /Chinese/
