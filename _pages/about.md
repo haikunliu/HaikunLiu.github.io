@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 **Ph.D, Professor**
+
 **国家“万人计划”青年拔尖人才入选者**
+
 **湖北省杰出青年基金获得者**
+
 [School of Computer Science and Technology](http://cs.hust.edu.cn/).
+
 [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 
