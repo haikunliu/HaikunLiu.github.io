@@ -1,15 +1,18 @@
+Journal Articles
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+* Xiaofei Liao, Zhan Zhang, Haikun Liu*, and Hai Jin, Improving Bank-level Parallelism for In-memory Checkpointing in Hybrid Memory Systems, IEEE Transactions on Big Data, vol. 8, no. 2, pp. 289-301, 1 April 2022  
+* Haikun Liu, Jiahong Xu, Xiaofei Liao, Hai Jin, Yu Zhang, Fubing Mao, A Simulation Framework for Memristor-Based Heterogeneous Computing Architectures. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. vol.41, no.12, pp. 5476-5488, 2022  
+* Hai Jin, Cong Liu, Haikun Liu, Ruikun Luo, Jiahong Xu, Fubing Mao, and Xiaofei Liao "ReHy: A ReRAM-Based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training," in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 11, pp. 2872-2884, 1 Nov. 2022  
+* Haikun Liu*, Di Chen, Hai Jin, Xiaofei Liao, Bin-sheng He, Kan Hu and Yu Zhang, A Survey of Non-Volatile Main Memory Technologies: State-of-the-Arts, Practices, and Future Directions, Journal of Computer Science and Technology, 2021, 36(1): 4-32.  
+* Haikun Liu, Renshan Liu, Xiaofei Liao, Hai Jin, Bingsheng He and Yu Zhang, "Object-level Memory Allocation and Migration in Hybrid Memory Systems," IEEE Transactions on Computers, vol.69, no.9, September 2020, pp.1401-1413  
+* Hai Jin, Di Chen, Haikun Liu*, Xiaofei Liao, Rentong Guo, and Yu Zhang, Miss Penalty Aware Cache Replacement for Hybrid Memory Systems, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 39, no. 12, Dec. 2020, pp. 4669- 4682  
+* Hai Jin, Zhiwei Li, Haikun Liu*, Xiaofei Liao and Yu Zhang, "Hotspot-aware Hybrid Memory Management for In-Memory Key-Value Stores," IEEE Transactions on Parallel and Distributed Systems, vol.31, no.4, April, 2020, pp.779-792  
+* Haikun Liu*, Bingsheng He, Xiaofei Liao, Hai Jin, "Towards Declarative and Data-centric Virtual Machine Image Management in IaaS Clouds," IEEE Transactions on Cloud Computing, vol.7, no.4, Dec. 2019, pp.1124-1138  
+* Wenbin Jiang, Yang Ma, Bo Liu, Haikun Liu*, Bing Bing Zhou, Jian Zhu, Song Wu, and Hai Jin. 2019. Layup: Layer-adaptive and Multi-type Intermediate-oriented Memory Optimization for GPU-based CNNs. ACM Transactions on Architecture and Code Optimization (TACO), Vol.16, No.4, Article 39 (October 2019), 23 pages.  
+* Xiaoyuan Wang, Haikun Liu*, Xiaofei Liao, Ji Chen, Hai Jin, Yu Zhang, Long Zheng, Bingsheng He, and Song Jiang. Supporting Superpages and Lightweight Page Migration in Hybrid Memory Systems. ACM Transactions on Architecture and Code Optimization (TACO). Vol. 16, No. 2, April, 2019, Article 11: 1-26  
+* Haikun Liu*, Bingsheng He, F2C: Enabling Fair and Fine-grained Resource Sharing in Multi-tenant IaaS Clouds, IEEE Transactions on Parallel and Distributed Systems, Vol.27, No.9, September 2016, pp. 2589-2602  
+* Haikun Liu*, Hai Jin, Xiaofei Liao, Wei Deng, Bingsheng He and Cheng-Zhong Xu, "Hotplug or Ballooning: A Comparative Study on Dynamic Memory Management Techniques for Virtual Machines," IEEE Transactions on Parallel and Distributed Systems, Vol. 26, No. 5, May 2015, pp. 1350-1363  
+* Haikun Liu* and Bingsheng He, "VMbuddies: Coordinating Live Migration of Multi-tier Applications in Cloud Environments," IEEE Transactions on Parallel and Distributed Systems, Vol.26, No.4, April 2015, pp. 1192-1205  
+* Haikun Liu, Hai Jin, Cheng-Zhong Xu, Xiaofei Liao, “Performance and Energy Modeling for Live Migration of Virtual Machine”, Cluster Computing, 2013, Vol.16, No.2, pp.249-264  
+* Haikun Liu, Hai Jin, Xiaofei Liao, Bo Ma and Cheng-zhong Xu, “VMckpt: lightweight and live virtual machine checkpointing”, SCIENCE CHINA Information Sciences, 2012, Vol.55, No.12, pp. 2865-2880  
+* Haikun Liu, Hai Jin, Xiaofei Liao, Chen Yu, and Cheng-zhong Xu, Live Virtual Machine Migration via Asynchronous Replication and State Synchronization, IEEE Transactions on Parallel and Distributed Systems, Vol. 22, No. 12, December 2011, pp.1986-1999.  
