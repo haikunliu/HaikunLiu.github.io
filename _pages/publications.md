@@ -7,7 +7,7 @@ author_profile: true
 
 Conference Papers
 ---
-*	Haodi Lu, Haikun Liu∗, Chencheng Ye, Xiaofei Liao, Fubing Mao, Yu Zhang, Hai Jin, Software-Defined, Fast and Strongly-Consistent Data Replication for RDMA-Based PM Datastores, Proceedings of the 2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS’23), May 15-19, 2023, St. Petersburg, Florida, USA, pp.90-101  
+*	Haodi Lu, **Haikun Liu∗**, Chencheng Ye, Xiaofei Liao, Fubing Mao, Yu Zhang, Hai Jin, Software-Defined, Fast and Strongly-Consistent Data Replication for RDMA-Based PM Datastores, Proceedings of the 2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS’23), May 15-19, 2023, St. Petersburg, Florida, USA, pp.90-101  
 * Zhuohui Duan, Jiabo Yao, Haikun Liu*, Xiaofei Liao, Hai Jin, Yu Zhang. 2023. Revisiting Log-structured Merging for KV Stores in Hybrid Memory Systems. In Proceedings of the 28th Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’23), March 25-29, 2023, Vancouver, Canada. ACM, New York, NY, USA, pp. 674–687  
 * Tao Wang, Haikun Liu, Hai Jin, Efficient Remote Memory Paging for Disaggregated Memory Systems, Proceedings of the 22nd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2022), Copenhagen, Denmark (Online), 10-12 October 2022, (Best Student Paper Award)  
 * Jin Zhao, Yun Yang, Yu Zhang, Xiaofei Liao, Lin Gu, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Xinyu Jiang, and Hui Yu. 2022. TDGraph: a topology-driven accelerator for high-performance streaming graph processing. In Proceedings of the 49th Annual International Symposium on Computer Architecture (ISCA '22). ACM, New York, NY, USA, 116–129.  
@@ -36,7 +36,7 @@ Conference Papers
 * Haikun Liu, Bingsheng He, “Reciprocal Resource Fairness: Towards Cooperative Multiple Resource Fair Sharing in IaaS Clouds”, International Conference for High Performance Computing, Networking, Storage and Analysis (SC’14), New Orleans, LA, USA, Nov. 16-21, 2014, pp. 970-981  
 * Shanjiang Tang, Bu-Sung Lee, Bingsheng He, Haikun Liu, “Long-Term Resource Fairness: Towards Economic Fairness on Pay-as-you-use Computing Systems,” Proceedings of International Conference on Supercomputing (ICS’14), Munich, Germany, June 10-13, 2014, pp. 251-260  
 * Haikun Liu, Cheng-Zhong Xu, Hai Jin, Jiayu Gong, Xiaofei Liao, “Performance and Energy Modeling for Live Migration of Virtual Machine”, Proceedings of the 20th ACM International Symposium on High Performance Parallel and Distributed Computing (HPDC'11), June 8-11, 2011, San Jose, CA, USA, pp.171-182. (Acceptance rate: 22/170 =13%，CCF B类会议, Google scholar统计截止2023 5. 11日已被引用606次,该系列会议近12年引用数第一)  
-* Haikun Liu, Hai Jin, Xiaofei Liao, Liting Hu and Chen Yu, "Live Migration of Virtual Machine Based on Full System Trace and Replay", Proceedings of the 18th International Symposium on High Performance Distributed Computing (HPDC'09), June 11-13, 2009, Munich, Germany, pp.101-110. (CCF B类顶级国际会议，Google scholar统计截止2016. 8. 11日已被引用332次)  
+* Haikun Liu, Hai Jin, Xiaofei Liao, Liting Hu and Chen Yu, "Live Migration of Virtual Machine Based on Full System Trace and Replay", Proceedings of the 18th International Symposium on High Performance Distributed Computing (HPDC'09), June 11-13, 2009, Munich, Germany, pp.101-110. (CCF B)  
 
 Journal Articles
 ---
