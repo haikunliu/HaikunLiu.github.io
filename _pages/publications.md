@@ -7,7 +7,7 @@ author_profile: true
 
 Selected Conference Papers：
 ---
-* Yancan Mao, Jianjun Zhao, Shuhao Zhang, **Haikun Liu**, and Volker Markl. 2023. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores. Proceedings of the ACM on Management of Data (**SIGMOD'23**). Vol.1, No.1, Article 59 (May 2023), 1-26.
+* Yancan Mao, Jianjun Zhao, Shuhao Zhang, **Haikun Liu**, and Volker Markl. 2023. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores. Proceedings of the ACM on Management of Data (**SIGMOD'23**). Vol.1, No.1, Article 59, (May 2023), 1-26.
 *	Haodi Lu, **Haikun Liu∗**, Chencheng Ye, Xiaofei Liao, Fubing Mao, Yu Zhang, Hai Jin, Software-Defined, Fast and Strongly-Consistent Data Replication for RDMA-Based PM Datastores, Proceedings of the 2023 IEEE International Parallel and Distributed Processing Symposium (**IPDPS’23**), May 15-19, 2023, St. Petersburg, Florida, USA, pp.90-101  
 * Zhuohui Duan, Jiabo Yao, Haikun Liu*, Xiaofei Liao, Hai Jin, Yu Zhang. 2023. Revisiting Log-structured Merging for KV Stores in Hybrid Memory Systems. In Proceedings of the 28th Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS’23**), March 25-29, 2023, Vancouver, Canada. ACM, New York, NY, USA, pp. 674–687  
 * Tao Wang, **Haikun Liu**, Hai Jin, Efficient Remote Memory Paging for Disaggregated Memory Systems, Proceedings of the 22nd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2022), Copenhagen, Denmark (Online), 10-12 October 2022, (**Best Student Paper Award**)  
