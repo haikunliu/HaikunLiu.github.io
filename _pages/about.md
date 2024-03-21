@@ -19,9 +19,9 @@ I am a Professor at Huazhong University of Science and Technology (HUST), China.
 
 Recent Highlights
 ------
-*  **\[ICDE' 24\]** Jianjun's paper is accepted by DAC 2024, congratulation!
-*  **\[DAC' 24\]** Zhuohui and Zelin's paper is accepted by IEEE TCAD, congratulation!
-*  **\[IEEE TCAD\]** Liu Cong and Wu Kaibo's paper is accepted by DAC 2024, congratulation!
+*  **\[ICDE' 24\]** Zhao Jianjun's paper is accepted by DAC 2024, congratulations!
+*  **\[DAC' 24\]** Duan Zhuohui and Yu Zelin's paper is accepted by DAC 2024, congratulations!
+*  **\[IEEE TCAD\]** Liu Cong and Wu Kaibo's paper is accepted by IEEE TCAD, congratulations!
 * **\[IEEE TC\]**	Haikun Liu, Xiaozhong Jin, Chencheng Ye, Xiaofei Liao, Hai Jin, Yu Zhang, I/O Causality Based In-line Data Deduplication for Non-Volatile Memory Enabled Storage Systems, IEEE Transactions on Computers, accepted
 * **\[IPDPS'23\]** Haodi Lu, Haikun Liu∗, Chencheng Ye, Xiaofei Liao, Fubing Mao, Yu Zhang, Hai Jin, [Software-Defined, Fast and Strongly-Consistent Data Replication for RDMA-Based PM Datastores](https://ieeexplore.ieee.org/document/10177403), Proceedings of the 2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS’23), May 15-19, 2023, St. Petersburg, Florida, USA, pp.90-101
 *  **\[Award\]** Our Group have received **Huawei Olympus Pioneer Award** for the year of 2022!
