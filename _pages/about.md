@@ -19,7 +19,7 @@ I am a Professor at Huazhong University of Science and Technology (HUST), China.
 
 Recent Highlights
 ------
-*  **\[ICDE' 24\]** Zhao Jianjun's paper is accepted by DAC 2024, congratulations!
+*  **\[ICDE' 24\]** Zhao Jianjun's paper is accepted by ICDE 2024, congratulations!
 *  **\[DAC' 24\]** Duan Zhuohui and Yu Zelin's paper is accepted by DAC 2024, congratulations!
 *  **\[IEEE TCAD\]** Liu Cong and Wu Kaibo's paper is accepted by IEEE TCAD, congratulations!
 * **\[IEEE TC\]**	Haikun Liu, Xiaozhong Jin, Chencheng Ye, Xiaofei Liao, Hai Jin, Yu Zhang, I/O Causality Based In-line Data Deduplication for Non-Volatile Memory Enabled Storage Systems, IEEE Transactions on Computers, accepted
